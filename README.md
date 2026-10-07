@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0771-jewels-and-stones](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
