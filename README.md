@@ -4,19 +4,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -29,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -38,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0771-jewels-and-stones) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
