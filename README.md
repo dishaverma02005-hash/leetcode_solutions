@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dishaverma02005-hash/leetcode_solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
